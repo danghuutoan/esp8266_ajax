@@ -1,2 +1,2 @@
-# esp8266_ajax
+# esp8266 ajax example
 ajax example with esp8266
